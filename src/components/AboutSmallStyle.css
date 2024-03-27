@@ -1,0 +1,20 @@
+.small-wrapper{
+
+    display: none;
+
+}
+
+@media(max-width: 640px){
+    .small-wrapper{
+        height: 700px;
+        max-width: 450px;
+        background: rgb(34,193,195);
+        background: linear-gradient(16deg, rgba(34,193,195,1) 0%, rgba(133,253,45,1) 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin-top: -130px;
+    }
+}
