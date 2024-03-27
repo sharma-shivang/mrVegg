@@ -1,8 +1,11 @@
-# React + Vite
+Steps to build the web app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Step-1 :-
+    Clone the repo in your local machine
+Step-2 :-
+     Use command npm install
+Step-3 :-
+     Use command npm i react-icons react-mobile-app-button tailwind
+Step-4:- 
+     use command "npm run dev" to build a local output
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
